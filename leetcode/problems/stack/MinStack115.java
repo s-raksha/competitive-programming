@@ -1,5 +1,3 @@
-package note.stack;
-
 import java.util.Stack;
 
 /*
