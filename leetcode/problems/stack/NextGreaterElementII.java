@@ -2,7 +2,7 @@ package problems.stack;
 
 import java.util.Stack;
 
-public class NextGreaterElementII503 {
+public class NextGreaterElementII {
 
     /*
     Using stack

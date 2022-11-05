@@ -12,7 +12,7 @@ It is guaranteed that the given RPN expression is always valid. That means the e
 result, and there will not be any division by zero operation.
  */
 
-class Solution {
+class EvaluateReversePolishNotation {
     /*
     Using set and stack
     Time complexity 0(n)

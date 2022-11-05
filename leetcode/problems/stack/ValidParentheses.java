@@ -1,4 +1,4 @@
-class Solution {
+class ValidParentheses {
     /*
     Time complexity o(n)
     space complexity o(n)

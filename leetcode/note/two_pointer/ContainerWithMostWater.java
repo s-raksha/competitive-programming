@@ -1,6 +1,6 @@
 package two_pointer;
 
-class Solution {
+class ContainerWithMostWater {
     /*
     Two pointer
     Time complexity o(n)

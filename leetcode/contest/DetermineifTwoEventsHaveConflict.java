@@ -11,7 +11,7 @@ A conflict happens when two events have some non-empty intersection (i.e., some 
 Return true if there is a conflict between two events. Otherwise, return false.
  */
 
-class Solution {
+class DetermineifTwoEventsHaveConflict{
     /*
     using split
     auxiliary memory o(2n)

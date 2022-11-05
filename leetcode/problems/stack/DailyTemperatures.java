@@ -1,4 +1,7 @@
-class Solution {
+/*
+https://leetcode.com/problems/daily-temperatures/
+ */
+class DailyTemperatures {
     /*
     Using 2 stack
     Time complexity - o(n)

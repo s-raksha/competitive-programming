@@ -3,7 +3,7 @@ import java.util.Stack;
 /*
 Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.
  */
-public class MinStack115 {
+public class MinStack{
 
     /*
     Using 2 stack

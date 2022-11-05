@@ -9,7 +9,7 @@ not receive any discount at all.
 Return an integer array answer where answer[i] is the final price you will pay for the ith item of the shop,
 considering the special discount.
  */
-public class Leetcode1475FinalPricesWithASpecialDiscountInAShop {
+public class FinalPricesWithASpecialDiscountInAShop {
 
     /*
     Using inner loop to search next small number
