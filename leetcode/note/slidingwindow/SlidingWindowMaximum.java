@@ -1,4 +1,4 @@
-package slidingwindow;
+package note.slidingwindow;
 
 /*
 https://leetcode.com/problems/sliding-window-maximum/description/
