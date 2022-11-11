@@ -3,6 +3,8 @@
 <h3> 1. Stack </h3>
   &emsp; Valid Parentheses (<a href= "https://leetcode.com/problems/valid-parentheses/">problem</a>) | (<a href= "https://github.com/s-raksha/competitive-programming/blob/main/leetcode/problems/stack/ValidParentheses.java">solution</a>)
   <br/>
+   &emsp; Remove All Adjacent Duplicates In String (<a href= "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/">problem</a>) | (<a href= "https://github.com/s-raksha/data-structure-and-algorithm/blob/main/leetcode/problems/stack/RemoveAllAdjacentDuplicatesInString.java">solution</a>)
+  <br/>
   &emsp; Next Greater Element I (<a href= "https://leetcode.com/problems/next-greater-element-i/">problem</a>) | (<a href= "https://github.com/s-raksha/competitive-programming/blob/main/leetcode/problems/stack/NextGreaterElementI.java">solution</a>)
   <br/>
   &emsp; Final Prices With a Special Discount in a Shop (<a href= "https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/">problem</a>) | (<a href= "https://github.com/s-raksha/competitive-programming/blob/main/leetcode/problems/stack/FinalPricesWithASpecialDiscountInAShop.java">solution</a>)
@@ -28,4 +30,6 @@
   &emsp; Max Sum Subarray of size K (<a href= "https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1">problem</a>) | (<a href= "https://github.com/s-raksha/competitive-programming/blob/main/gfg/sliding_window/MaxSumSubarrayOfSizeK.java">solution</a>)
   <br/>
   &emsp; Find All Anagrams in a String (<a href= "https://leetcode.com/problems/find-all-anagrams-in-a-string/description/">problem</a>) | (<a href= "https://github.com/s-raksha/competitive-programming/blob/main/leetcode/problems/slidingwindow/FindAllAnagramsInAString.java">solution</a>)
+  <br/>
+  &emsp; Sliding Window Maximum (<a href= "https://leetcode.com/problems/sliding-window-maximum/description/">problem</a>) | (<a href= "https://github.com/s-raksha/data-structure-and-algorithm/blob/main/leetcode/note/slidingwindow/SlidingWindowMaximum.java">solution</a>)
   <br/>
