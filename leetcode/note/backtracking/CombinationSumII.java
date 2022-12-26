@@ -4,6 +4,9 @@ package backtracking;
 https://leetcode.com/problems/combination-sum-ii/description/
  */
 public class CombinationSumII {
+    /*
+    Pick (same index until target is greater than zero) not-pick
+     */
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
         List<List<Integer>> result = new ArrayList<>();
         Arrays.sort(candidates);
